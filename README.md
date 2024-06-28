@@ -22,3 +22,35 @@ It also creates charts and data graphics in various bitmap and vector formats as
 it also helpfull to add colors,styles,table etc. 
 
 
+Task-3 Create Voice Recorder Using Python.
+
+
+How to Work? ...
+--> First of all we install all libraries
+ 
+--> The "wavio" library in Python is a convenient tool for reading and writing WAV (Waveform Audio File Format) files. It simplifies working with audio data in the WAV format by providing easy-to-use functions for reading and writing audio files.
+
+---> The "sounddevice" library in Python is a powerful and user-friendly package for playing and recording audio through Python. It provides a simple interface to access audio devices and play back or record audio data in real-time.
+
+---> We Used Scipy as the recorded audio is saved as a WAV file and then converted to a numpy array for processing and the script plots the time-domain representation of the recorded audio.
+
+---> After That we make one function called savefile() which is used to save our voice as wav. Format. In this function we define some frequency rate for sound.
+---> And We will run this function. This function will run according to our timer what we set..and voice recording started!!
+
+Outcomes :- The Wav file would be shown on our directory we download it and run it one our media player.
+
+
+
+Task-4 Create Rock Paper Scissors Game Using Python 
+
+It just Simple game with this Following Logic..
+
+Rock vs paper-> paper wins
+
+Rock vs scissor-> Rock wins
+
+paper vs scissor-> scissor wins.
+
+
+
+
